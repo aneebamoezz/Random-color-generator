@@ -1,0 +1,37 @@
+.btn-1 {
+    background-color: darkblue;
+    border: none;
+    margin-top: 40px;
+    padding: 10px;
+    border-radius: 50px;
+    color: #fff;
+}
+
+.btn-2 {
+    background-color: crimson;
+    margin-left: 40px;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+}
+
+.btn-3 {
+    background-color: blueviolet;
+    margin-left: 40px;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+}
+
+.type-of-color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 40px;
+    margin-top: 40px;
+    flex-direction: column;
+    gap: 20px;
+}
